@@ -1,7 +1,7 @@
 User can pick color and draw a rectangle on the canvas filled with that color.
 
 Three tools:
-1. Rectangle (fill-color supported)
+1. Rectangle (fill-in color supported)
 2. Pencil
 3. Line
 
